@@ -1,0 +1,32 @@
+++++++++
+[
+>++++
+    [ 
+    >
+    ++>
+    +++>
+    +++>
+    +<<<<-
+    ]    
+>
++>
++>
+->
+>
++
+[<]
+<-]
+>>.             prints 'H'
+>---.           prints 'e'
++++++++.        prints 'l'
+.               prints 'l'
++++.            prints 'o'
+>>.             prints ' '
+<-.             prints 'W'
+<.              prints 'o'
++++.            prints 'r'
+------.         prints 'l'
+--------.       prints 'd'
+>>+.            prints '!'
+>++.            prints '\n'
+
